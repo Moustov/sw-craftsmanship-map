@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T21:11:35.919Z" agent="5.0 (Windows)" etag="dSjvzhDza-jEtq3OX6GS" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T21:15:48.363Z" agent="5.0 (Windows)" etag="D9tdqqiQaiIP3eH9WQyp" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
     <mxGraphModel dx="2893" dy="11193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -198,8 +198,8 @@
         <mxCell id="291gi0x46EU7HoGV_n7S-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="291gi0x46EU7HoGV_n7S-52">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="FIRST" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Plain-Old-Unit-Test" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-56">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1" vertex="1" parent="291gi0x46EU7HoGV_n7S-51">
+        <UserObject label="FIRST" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Unit-test-must-be-FIRST" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-56">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5" vertex="1" parent="291gi0x46EU7HoGV_n7S-51">
             <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
           </mxCell>
         </UserObject>
