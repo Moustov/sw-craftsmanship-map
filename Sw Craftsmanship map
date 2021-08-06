@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T20:42:13.667Z" agent="5.0 (Windows)" etag="5EOj5gJfzcZ3gFf_7tMe" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T20:51:09.651Z" agent="5.0 (Windows)" etag="B74W8bdTlbkKi7BAr_ex" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
-    <mxGraphModel dx="2480" dy="11023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="10895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="291gi0x46EU7HoGV_n7S-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.34,0],[0.56,0.17],[0.75,0],[1,0.34],[0.81,0.58],[0.75,1],[0.23,1],[0,0.75],[0.09,0.57],[0,0.25]];polyline=0;strokeColor=#d6b656;strokeWidth=5;fontSize=27;align=left;opacity=50;dashed=1;dashPattern=1 1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="-120" width="1200" height="1036.75" as="geometry" />
+        <mxCell id="291gi0x46EU7HoGV_n7S-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.18,0.09],[0.5,0.04],[0.76,0.31],[0.89,0.43],[0.81,0.58],[0.42,0.87],[0.25,0.86],[0,0.74],[0,0.58],[0,0.25]];polyline=0;strokeColor=#d6b656;strokeWidth=5;fontSize=27;align=left;opacity=50;dashed=1;dashPattern=1 1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-120" width="1450" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="J1lIg6E_lB2lnIiMBELj-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.34,0],[0.56,0.17],[0.75,0],[1,0.34],[0.81,0.58],[0.75,1],[0.23,1],[0,0.75],[0.09,0.57],[0,0.25]];polyline=0;strokeColor=#82b366;strokeWidth=5;fontSize=27;align=left;opacity=50;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1670" y="243.25" width="1200" height="1036.75" as="geometry" />
@@ -115,7 +115,7 @@
             <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="291gi0x46EU7HoGV_n7S-36" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="J1lIg6E_lB2lnIiMBELj-48" target="291gi0x46EU7HoGV_n7S-34">
+        <mxCell id="291gi0x46EU7HoGV_n7S-36" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;entryX=0;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="J1lIg6E_lB2lnIiMBELj-48" target="291gi0x46EU7HoGV_n7S-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2220" y="606.51" as="sourcePoint" />
             <mxPoint x="2350.000100637429" y="566.5999999999999" as="targetPoint" />
@@ -284,32 +284,58 @@
             <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="291gi0x46EU7HoGV_n7S-30" value="" style="group;shadow=0;rounded=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2700" y="503.25" width="380" height="516.75" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-31" value="" style="group" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-30">
-          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;direction=south;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="TCR" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/%22Test-&amp;-Commit-%7C-Revert%22-(TCR)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-35">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5" vertex="1" parent="291gi0x46EU7HoGV_n7S-30">
-            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="291gi0x46EU7HoGV_n7S-64" value="Coding Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;opacity=50;fontSize=48;" vertex="1" parent="1">
           <mxGeometry x="2425.05" y="1190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="291gi0x46EU7HoGV_n7S-65" value="Architecturing Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;opacity=50;fontSize=48;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="150" width="40" height="20" as="geometry" />
+          <mxGeometry x="2465.05" y="40" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-72" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-70" target="291gi0x46EU7HoGV_n7S-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2570" y="416.51027272321517" as="sourcePoint" />
+            <mxPoint x="2688.7867965644027" y="475.2970692876188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-30" value="" style="group;shadow=0;rounded=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2700" y="503.25" width="380" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-31" value="" style="group" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-30">
+          <mxGeometry y="84.87800342655132" width="80" height="78.49056603773585" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry width="78.49056603773585" height="78.49056603773585" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;direction=south;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry width="78.49056603773585" height="78.49056603773585" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry x="10" y="9.81132075471698" width="58.867924528301884" height="58.867924528301884" as="geometry" />
+        </mxCell>
+        <UserObject label="TCR" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/%22Test-&amp;-Commit-%7C-Revert%22-(TCR)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5" vertex="1" parent="291gi0x46EU7HoGV_n7S-30">
+            <mxGeometry x="60" y="35.82139965296644" width="110" height="19.62264150943396" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-66" value="" style="group;shadow=0;rounded=0;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2660" y="360" width="160.39960837863134" height="166.5102727232158" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-67" value="" style="group" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-66">
+          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="291gi0x46EU7HoGV_n7S-67">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;" vertex="1" parent="291gi0x46EU7HoGV_n7S-67">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="291gi0x46EU7HoGV_n7S-67">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Triangulation" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Triangulation-refactoring" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-71">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5" vertex="1" parent="291gi0x46EU7HoGV_n7S-66">
+            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
