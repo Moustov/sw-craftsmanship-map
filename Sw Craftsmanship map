@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T19:59:21.406Z" agent="5.0 (Windows)" etag="EjRfOoDZBvr1n0GgWghH" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T20:05:47.677Z" agent="5.0 (Windows)" etag="kIpj9jeT08ePQ4dqaIx-" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
     <mxGraphModel dx="1736" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -13,26 +13,6 @@
             <mxPoint x="2270" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-44" value="" style="group;shadow=0;rounded=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2470" y="350" width="160.39960837863134" height="166.5102727232158" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-45" value="" style="group" parent="J1lIg6E_lB2lnIiMBELj-44" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="TPP" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Transformation-Priority-Premise" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-49">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1" parent="J1lIg6E_lB2lnIiMBELj-44" vertex="1">
-            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="291gi0x46EU7HoGV_n7S-7" value="" style="curved=1;endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2220" y="606.51" as="sourcePoint" />
@@ -174,6 +154,59 @@
         <UserObject label="TDD" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Test-Driven-Development-(TDD)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-27">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1" vertex="1" parent="291gi0x46EU7HoGV_n7S-22">
             <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-36" value="" style="curved=1;endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J1lIg6E_lB2lnIiMBELj-48" target="291gi0x46EU7HoGV_n7S-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2220" y="606.51" as="sourcePoint" />
+            <mxPoint x="2350.000100637429" y="566.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2410" y="587" />
+              <mxPoint x="2430" y="587" />
+              <mxPoint x="2430" y="597" />
+              <mxPoint x="2485" y="597" />
+              <mxPoint x="2485" y="527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-44" value="" style="group;shadow=0;rounded=0;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="2340" y="430" width="160.39960837863134" height="166.5102727232158" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-45" value="" style="group" parent="J1lIg6E_lB2lnIiMBELj-44" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" parent="J1lIg6E_lB2lnIiMBELj-45" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="TPP" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Transformation-Priority-Premise" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-49">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1" parent="J1lIg6E_lB2lnIiMBELj-44" vertex="1">
+            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-30" value="" style="group;shadow=0;rounded=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2550" y="400" width="160.39960837863134" height="166.5102727232158" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-31" value="" style="group" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-30">
+          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="291gi0x46EU7HoGV_n7S-31">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="TCR" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/%22Test-&amp;-Commit-%7C-Revert%22-(TCR)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1" vertex="1" parent="291gi0x46EU7HoGV_n7S-30">
+            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
