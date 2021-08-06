@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T20:40:07.528Z" agent="5.0 (Windows)" etag="8SKXtbAjA1NopTjAXylE" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T20:42:13.667Z" agent="5.0 (Windows)" etag="5EOj5gJfzcZ3gFf_7tMe" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
-    <mxGraphModel dx="2170" dy="10895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="11023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,6 +304,12 @@
             <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-64" value="Coding Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;opacity=50;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="2425.05" y="1190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-65" value="Architecturing Area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;opacity=50;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
