@@ -2,7 +2,7 @@
 ## Purpose
 This project aims to provide a clickabe graphical representation of Software Crasftsmanship practices (patterns & antipatterns) to help the Software Developer going further in his craft
 ## Tools
-- draw.io
+- draw.io to edit the file [Sw Craftsmanship map]
   * online drawing tool https://app.diagrams.net/
   * heavyweight app : https://draw-io.fr.softonic.com/
 ## History
