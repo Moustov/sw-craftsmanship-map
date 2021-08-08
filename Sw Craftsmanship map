@@ -500,7 +500,7 @@
         <mxCell id="J1lIg6E_lB2lnIiMBELj-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 18.0pt ; font-family: &amp;#34;calibri&amp;#34; ; color: black&quot;&gt;&lt;a href=&quot;http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html&quot;&gt;3 Laws of TDD&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-43">
+        <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 18.0pt ; font-family: &amp;#34;calibri&amp;#34; ; color: black&quot;&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD&quot;&gt;3 Laws of TDD&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-43">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;container=1;" parent="291gi0x46EU7HoGV_n7S-136" vertex="1">
             <mxGeometry x="26" y="67.70790322671186" width="207.95" height="46.41" as="geometry" />
           </mxCell>
