@@ -7,6 +7,7 @@ This project aims to provide a clickabe graphical representation of Software Cra
 ## Content philosophy
 * Mainly links, some quotes and pictures
 * New practice may be added in the [wiki](https://github.com/Moustov/sw-craftsmanship-map/wiki) then an item may be added in the [map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map) with a link to the new article
+* [Map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map) links should refer only to thi [wiki](https://github.com/Moustov/sw-craftsmanship-map/wiki) links to enable multiple point of views and wider understanding
 
 ## Tools
 - draw.io to edit the file [Sw Craftsmanship map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map)
