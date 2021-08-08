@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T06:12:16.385Z" agent="5.0 (Windows)" etag="qUlZo5AJlCm5Z5wgOZw8" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T06:43:54.698Z" agent="5.0 (Windows)" etag="ub7spMMqzw4Czbrwcbx7" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
     <mxGraphModel dx="1736" dy="10716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -314,54 +314,6 @@
             <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="291gi0x46EU7HoGV_n7S-89" value="" style="curved=1;endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;entryX=0;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-87" target="J1lIg6E_lB2lnIiMBELj-42">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4411.213203435748" y="147.72320343574938" as="sourcePoint" />
-            <mxPoint x="4498.7867965644045" y="7.723476158813355" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-83" value="" style="group;shadow=0;rounded=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4470" y="-150" width="160.39960837863134" height="166.5102727232158" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-84" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-83">
-          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="Triangulation" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Triangulation-refactoring" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-88">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-83">
-            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-38">
-          <mxCell style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1" connectable="0">
-            <mxGeometry x="4640" y="-180.00027272321574" width="265.05" height="166.5102727232158" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-39" value="" style="group;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-38" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="J1lIg6E_lB2lnIiMBELj-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 18.0pt ; font-family: &amp;#34;calibri&amp;#34; ; color: black&quot;&gt;&lt;a href=&quot;http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html&quot;&gt;3 Laws of TDD&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" link="https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-43">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-38" vertex="1">
-            <mxGeometry x="20.1" y="-16.41" width="207.95" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="291gi0x46EU7HoGV_n7S-98" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeWidth=43;endFill=0;fillColor=#f8cecc;strokeColor=#f8cecc;sketch=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-77" target="291gi0x46EU7HoGV_n7S-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4720.000000000001" y="-43.48999999999978" as="sourcePoint" />
@@ -505,6 +457,52 @@
         <UserObject label="&lt;h1 class=&quot;flex-auto min-width-0 mb-2 mb-md-0 mr-0 mr-md-2 gh-header-title&quot; style=&quot;font-size: 27px;&quot;&gt;More Is More Complex&lt;/h1&gt;" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/More-Is-More-Complex-(MIMC)---Less-is-more" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-128">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-130">
             <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-89" value="" style="curved=1;endArrow=none;html=1;fontSize=27;fontColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;shadow=0;strokeWidth=43;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;entryX=0;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-87" target="J1lIg6E_lB2lnIiMBELj-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-58.786796564251745" y="297.7232034357494" as="sourcePoint" />
+            <mxPoint x="28.78679656440454" y="157.72347615881336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-135" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4470" y="-150" width="160.39960837863146" height="166.5102727232158" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-84" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-135">
+          <mxGeometry y="86.51027272321579" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-84">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Triangulation" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Triangulation-refactoring" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-88">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-135">
+            <mxGeometry x="60" y="36.51027272321579" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-136" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4640" y="-266.62790322671185" width="218.89438413533298" height="253.1379032267119" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-39" value="" style="group;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-136" vertex="1" connectable="0">
+          <mxGeometry y="173.1379032267119" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1lIg6E_lB2lnIiMBELj-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="J1lIg6E_lB2lnIiMBELj-39" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;span style=&quot;font-size: 18.0pt ; font-family: &amp;#34;calibri&amp;#34; ; color: black&quot;&gt;&lt;a href=&quot;http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html&quot;&gt;3 Laws of TDD&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD" linkTarget="_blank" id="J1lIg6E_lB2lnIiMBELj-43">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;container=1;" parent="291gi0x46EU7HoGV_n7S-136" vertex="1">
+            <mxGeometry x="26" y="67.70790322671186" width="207.95" height="46.41" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
