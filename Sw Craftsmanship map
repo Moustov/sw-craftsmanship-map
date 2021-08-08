@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-07T09:21:45.181Z" agent="5.0 (Windows)" etag="gaV08bcT9oV95lbrqOHr" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-08T06:12:16.385Z" agent="5.0 (Windows)" etag="qUlZo5AJlCm5Z5wgOZw8" version="14.9.4" type="github">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Page-1">
-    <mxGraphModel dx="1447" dy="10597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="10716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,23 +461,49 @@
             <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="291gi0x46EU7HoGV_n7S-118" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="291gi0x46EU7HoGV_n7S-131" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=43;endFill=0;fillColor=#f8cecc;strokeColor=#f8cecc;sketch=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="291gi0x46EU7HoGV_n7S-113" target="291gi0x46EU7HoGV_n7S-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4700" y="-830" as="sourcePoint" />
+            <mxPoint x="4646.263203435596" y="-812.2765238411885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-133" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4575.05" y="-969.9999999999999" width="160.39960837863146" height="166.51027272321573" as="geometry" />
         </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-113" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-118">
+        <mxCell id="291gi0x46EU7HoGV_n7S-113" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-133">
           <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
+        <mxCell id="291gi0x46EU7HoGV_n7S-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
+        <mxCell id="291gi0x46EU7HoGV_n7S-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
+        <mxCell id="291gi0x46EU7HoGV_n7S-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="291gi0x46EU7HoGV_n7S-113">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <UserObject label="DRY" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Don&#39;t-Repeat-Yourself-(DRY)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-117">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-118">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-133">
+            <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-130" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4805.05" y="-989.9999999999999" width="160.39960837863146" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-124" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="291gi0x46EU7HoGV_n7S-130">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-125" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-124">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-126" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-124">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-124">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 class=&quot;flex-auto min-width-0 mb-2 mb-md-0 mr-0 mr-md-2 gh-header-title&quot; style=&quot;font-size: 27px;&quot;&gt;More Is More Complex&lt;/h1&gt;" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/More-Is-More-Complex-(MIMC)---Less-is-more" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-128">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="291gi0x46EU7HoGV_n7S-130">
             <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
