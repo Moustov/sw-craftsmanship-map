@@ -10,10 +10,7 @@ This project aims to provide a clickabe graphical representation of Software Cra
 * [Map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map) links should refer only to this [wiki](https://github.com/Moustov/sw-craftsmanship-map/wiki) links to enable multiple point of views and wider understanding
 
 ## Conventions / WoW
-* When a wikipage is put on the map, the metro ico (`:metro:`  :metro:) is set on the page the link that goes to it
-* A page should contain two sections
-  * `# Description`
-  * `# Related knowledge`
+* When a wikipage is put on the [map](https://app.diagrams.net/#HMoustov%2Fsw-craftsmanship-map%2Fmain%2FSw%20Craftsmanship%20map), the `:metro:` emoji :metro: is set at the very top of the page refered by the link
 
 ## Tools
 - draw.io to edit the file [Sw Craftsmanship map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map)
