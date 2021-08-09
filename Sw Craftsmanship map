@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T06:07:44.536Z" agent="5.0 (Windows)" etag="JM4Aj2J7Zi5imPKnUSfH" version="14.9.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-09T06:21:43.825Z" agent="5.0 (Windows)" etag="tpFlQTG4why4YOZv73be" version="14.9.5" type="github" pages="2">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Map">
-    <mxGraphModel dx="2054" dy="10930" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="3423" dy="11550" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
         </UserObject>
         <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Mutation-Testing" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-8">
           <mxCell style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1" connectable="0">
-            <mxGeometry x="4587.67" y="539.9997272767841" width="265.05" height="166.5102727232158" as="geometry" />
+            <mxGeometry x="4624.95" y="489.99972727678414" width="265.05" height="166.5102727232158" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="291gi0x46EU7HoGV_n7S-9" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-8" vertex="1" connectable="0">
@@ -297,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Three-laws-of-TDD" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-22">
-          <mxCell style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1" connectable="0">
+          <mxCell style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1" connectable="0">
             <mxGeometry x="4330" y="-10.000272723215744" width="265.05" height="166.5102727232158" as="geometry" />
           </mxCell>
         </UserObject>
@@ -341,7 +341,7 @@
             <mxPoint x="28.78679656440454" y="157.72347615881336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="58edvTKXO7r_lezUIacZ-10" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="58edvTKXO7r_lezUIacZ-10" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="4640" y="-257.7079032267119" width="229.99438413533335" height="244.21790322671194" as="geometry" />
         </mxCell>
         <mxCell id="J1lIg6E_lB2lnIiMBELj-39" value="" style="group;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fontSize=27;" parent="58edvTKXO7r_lezUIacZ-10" vertex="1" connectable="0">
@@ -383,96 +383,12 @@
             <mxGeometry x="40" y="58.8368016233033" width="180" height="38.67" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;fontSize=27;fontColor=#0000FF;strokeWidth=43;labelBackgroundColor=#ffffff;endFill=0;sketch=1;strokeColor=#f8cecc;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3800" y="-1810" width="660" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-133" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3960" y="-1310" width="160.39960837863146" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-113" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-133" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Don&#39;t-Repeat-Yourself-(DRY)&quot;&gt;DRY&lt;/a&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-117">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-133" vertex="1">
-            <mxGeometry x="30" y="20.000272723215733" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3750" y="-1600" width="186.95" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-4" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-3" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Fail-Fast-(FF)&quot;&gt;Fail Fast&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-8">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-3" vertex="1">
-            <mxGeometry x="100" y="110" width="130" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" linkTarget="_blank" id="58edvTKXO7r_lezUIacZ-2">
-          <mxCell style="group;direction=west;" parent="1" vertex="1" connectable="0">
-            <mxGeometry x="3800" y="-1769.9999999999998" width="160.39960837863146" height="166.51027272321573" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-93">
-          <mxCell style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="58edvTKXO7r_lezUIacZ-2" vertex="1" connectable="0">
-            <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="291gi0x46EU7HoGV_n7S-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-96">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
-            <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="S-3qgqyxW76Cwxuix6a3-9" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=43;endFill=0;fillColor=#f8cecc;strokeColor=#f8cecc;sketch=1;edgeStyle=orthogonalEdgeStyle;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" source="291gi0x46EU7HoGV_n7S-127" target="291gi0x46EU7HoGV_n7S-103" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2990.0032034358137" y="-864.7029307125977" as="sourcePoint" />
             <mxPoint x="3053.74" y="-1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="3820" y="-1436.5099999999998" width="160.39960837863146" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-100" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-2" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="291gi0x46EU7HoGV_n7S-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;div&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Keep-It-Simple-Stupid-(KISS)&quot;&gt;KISS&lt;/a&gt;&lt;/div&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-104">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-2" vertex="1">
-            <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="291gi0x46EU7HoGV_n7S-130" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3660" y="-1190" width="235.78" height="166.51027272321573" as="geometry" />
         </mxCell>
@@ -493,86 +409,12 @@
             <mxGeometry x="48.15" y="8.59" width="187.63" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)&quot;&gt;Law of Demeter&lt;/a&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-97">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
-            <mxGeometry x="3900" y="-1629.9999999999998" width="183.13" height="97.23" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-29" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="4165.929313354421" y="-1365.0326274227052" width="227.9606866455797" height="231.54290014592107" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-10" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-29" vertex="1" connectable="0">
-          <mxGeometry x="24.07068664557937" y="65.03262742270533" width="203.89" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-11" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-10" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;h1 class=&quot;sectionedit1&quot; id=&quot;gall_s_law&quot;&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Gall&#39;s-Law&quot;&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;Gall&#39;s Law&lt;/font&gt;&lt;/a&gt;&lt;/h1&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-15">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=75;fontSize=27;fontColor=#0000FF;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-29" vertex="1">
-            <mxGeometry x="-45.92931335442063" y="65.03262742270533" width="150" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="4319.9958891030765" y="-1620" width="281.113719275555" height="180.40457846674485" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-22" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-30" vertex="1" connectable="0">
-          <mxGeometry x="120.71411089692356" width="160.39960837863146" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-23" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-22" vertex="1" connectable="0">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/You-Ain&#39;t-Gonna-Need-It-(YAGNI)&quot;&gt;YAGNI&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-27">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-30" vertex="1">
-            <mxGeometry x="0.004110896923557483" y="110.00027272321563" width="110" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="YybU6DoKZmJlXhVL4MMa-20" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=3;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;jumpStyle=none;shape=link;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" source="S-3qgqyxW76Cwxuix6a3-17" target="YybU6DoKZmJlXhVL4MMa-7" edge="1">
+        <mxCell id="YybU6DoKZmJlXhVL4MMa-20" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=3;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;jumpStyle=none;shape=link;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;exitX=1.164;exitY=0.392;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="S-3qgqyxW76Cwxuix6a3-17" target="YybU6DoKZmJlXhVL4MMa-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3913.666666666667" y="-1000.7666666666661" as="sourcePoint" />
             <mxPoint x="3800.000000000001" y="-647.5899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-28" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="4160.00163545611" y="-1529.9983645438897" width="319.2583645438899" height="282.6483645438898" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-16" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-28" vertex="1" connectable="0">
-          <mxGeometry x="209.2583645438899" y="116.1383645438898" width="110" height="166.51" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-17" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-16" vertex="1" connectable="0">
-          <mxGeometry y="86.51013103009743" width="22.9699042050586" height="79.99986896990256" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S-3qgqyxW76Cwxuix6a3-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Generalization-Principle-(GP)&quot;&gt;Generalization Principle (GP)&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-21">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;rotation=50;fontSize=27;fontColor=#0000FF;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;whiteSpace=wrap;html=1;" parent="S-3qgqyxW76Cwxuix6a3-28" vertex="1">
-            <mxGeometry x="54.628364543889916" y="39.38836454388979" width="210" height="169.74" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="YybU6DoKZmJlXhVL4MMa-27" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=43;endFill=0;fillColor=#f8cecc;sketch=1;edgeStyle=orthogonalEdgeStyle;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#009900;" parent="1" source="YybU6DoKZmJlXhVL4MMa-26" edge="1" target="C2i3nMOu9mtKhvNfkwOV-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3739.9998658166296" y="-1053.3999999999996" as="sourcePoint" />
@@ -600,9 +442,9 @@
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YybU6DoKZmJlXhVL4MMa-28" value="&lt;h1 style=&quot;font-size: 48px&quot;&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/SOLID-Principles&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;SOLID Principles&lt;/font&gt;&lt;/a&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};dashed=1;dashPattern=1 1;fontSize=48;opacity=100;strokeColor=#9673a6;fontStyle=1;fillColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="4330" y="-720" width="430" height="140" as="geometry" />
+          <mxGeometry x="4370" y="-810" width="430" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YybU6DoKZmJlXhVL4MMa-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=48;strokeWidth=3;" parent="1" source="YybU6DoKZmJlXhVL4MMa-28" edge="1">
+        <mxCell id="YybU6DoKZmJlXhVL4MMa-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=48;strokeWidth=3;" parent="1" source="YybU6DoKZmJlXhVL4MMa-28" edge="1" target="YybU6DoKZmJlXhVL4MMa-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4310" y="-873.5" as="sourcePoint" />
             <mxPoint x="4660" y="-930" as="targetPoint" />
@@ -709,6 +551,167 @@
         <mxCell id="YybU6DoKZmJlXhVL4MMa-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#009900;strokeColor=#82B366;" parent="YybU6DoKZmJlXhVL4MMa-17" vertex="1">
           <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="C2i3nMOu9mtKhvNfkwOV-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3900" y="-1780" width="851.1096083786315" height="676.5102727232158" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;fontSize=27;fontColor=#0000FF;strokeWidth=43;labelBackgroundColor=#ffffff;endFill=0;sketch=1;strokeColor=#f8cecc;fillColor=none;" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1">
+          <mxGeometry x="50" width="660" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-133" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry x="210" y="500" width="160.39960837863146" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-113" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-133" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-115" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="291gi0x46EU7HoGV_n7S-113" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Don&#39;t-Repeat-Yourself-(DRY)&quot;&gt;DRY&lt;/a&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-117">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-133" vertex="1">
+            <mxGeometry x="30" y="20.000272723215733" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-3" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry y="210" width="186.95" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-4" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-3" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-4" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Fail-Fast-(FF)&quot;&gt;Fail Fast&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-8">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-3" vertex="1">
+            <mxGeometry x="100" y="110" width="130" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" linkTarget="_blank" id="58edvTKXO7r_lezUIacZ-2">
+          <mxCell style="group;direction=west;" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+            <mxGeometry x="50" y="40.00000000000023" width="160.39960837863146" height="166.51027272321573" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-93">
+          <mxCell style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="58edvTKXO7r_lezUIacZ-2" vertex="1" connectable="0">
+            <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="291gi0x46EU7HoGV_n7S-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-96">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-93" vertex="1">
+            <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-2" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry x="70" y="373.49000000000024" width="160.39960837863146" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-100" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-2" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="291gi0x46EU7HoGV_n7S-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="291gi0x46EU7HoGV_n7S-100" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Keep-It-Simple-Stupid-(KISS)&quot;&gt;KISS&lt;/a&gt;&lt;/div&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-104">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-2" vertex="1">
+            <mxGeometry x="60" y="36.510272723215735" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Law-of-Demeter-(LoD)&quot;&gt;Law of Demeter&lt;/a&gt;" linkTarget="_blank" id="291gi0x46EU7HoGV_n7S-97">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1">
+            <mxGeometry x="150" y="180.00000000000023" width="183.13" height="97.23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-29" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry x="415.92931335442063" y="444.9673725772948" width="227.9606866455797" height="231.54290014592107" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-10" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-29" vertex="1" connectable="0">
+          <mxGeometry x="24.07068664557937" y="65.03262742270533" width="203.89" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-11" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-10" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-11" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h1 class=&quot;sectionedit1&quot; id=&quot;gall_s_law&quot;&gt;&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Gall&#39;s-Law&quot;&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;Gall&#39;s Law&lt;/font&gt;&lt;/a&gt;&lt;/h1&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-15">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=75;fontSize=27;fontColor=#0000FF;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-29" vertex="1">
+            <mxGeometry x="-45.92931335442063" y="65.03262742270533" width="150" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-30" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry x="569.9958891030765" y="190" width="281.113719275555" height="180.40457846674485" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-22" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-30" vertex="1" connectable="0">
+          <mxGeometry x="120.71411089692356" width="160.39960837863146" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-23" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-22" vertex="1" connectable="0">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-23" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/You-Ain&#39;t-Gonna-Need-It-(YAGNI)&quot;&gt;YAGNI&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-27">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-30" vertex="1">
+            <mxGeometry x="0.004110896923557483" y="110.00027272321563" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-28" value="" style="group" parent="C2i3nMOu9mtKhvNfkwOV-23" vertex="1" connectable="0">
+          <mxGeometry x="410.0016354561103" y="280.0016354561103" width="319.2583645438899" height="282.6483645438898" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-16" value="" style="group" parent="S-3qgqyxW76Cwxuix6a3-28" vertex="1" connectable="0">
+          <mxGeometry x="209.2583645438899" y="116.1383645438898" width="110" height="166.51" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-17" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="S-3qgqyxW76Cwxuix6a3-16" vertex="1" connectable="0">
+          <mxGeometry y="86.51013103009743" width="22.9699042050586" height="79.99986896990256" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S-3qgqyxW76Cwxuix6a3-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="S-3qgqyxW76Cwxuix6a3-17" vertex="1">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Generalization-Principle-(GP)&quot;&gt;Generalization Principle (GP)&lt;/a&gt;" linkTarget="_blank" id="S-3qgqyxW76Cwxuix6a3-21">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;rotation=50;fontSize=27;fontColor=#0000FF;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;whiteSpace=wrap;html=1;" parent="S-3qgqyxW76Cwxuix6a3-28" vertex="1">
+            <mxGeometry x="54.628364543889916" y="39.38836454388979" width="210" height="169.74" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
