@@ -11,6 +11,9 @@ This project aims to provide a clickabe graphical representation of Software Cra
 
 ## Conventions / WoW
 * When a wikipage is put on the map, the metro ico (`:metro:`  :metro:) is set on the page the link that goes to it
+* A page should contain two sections
+  * `# Description`
+  * `# Related knowledge`
 
 ## Tools
 - draw.io to edit the file [Sw Craftsmanship map](https://github.com/Moustov/sw-craftsmanship-map/blob/main/Sw%20Craftsmanship%20map)
