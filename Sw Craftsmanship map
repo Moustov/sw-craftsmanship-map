@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T07:31:57.471Z" agent="5.0 (Windows)" etag="AUPiOBRUDpzN6DEvFCap" version="14.9.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-16T20:46:09.653Z" agent="5.0 (Windows)" etag="lLdLFFq-fIUmUy_nFkwx" version="14.9.5" type="github" pages="2">
   <diagram id="c7AardAmtZzO1czK6ol6" name="Map">
     <mxGraphModel dx="1712" dy="10775" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -805,26 +805,6 @@
             <mxPoint x="3990" y="-1269.9997272767832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FuWePn5Iiu6_trG1VJC-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3670" y="-2030" width="235.78" height="166.51027272321573" as="geometry" />
-        </mxCell>
-        <mxCell id="_FuWePn5Iiu6_trG1VJC-33" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="_FuWePn5Iiu6_trG1VJC-32">
-          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_FuWePn5Iiu6_trG1VJC-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_FuWePn5Iiu6_trG1VJC-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_FuWePn5Iiu6_trG1VJC-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#7EA6E0;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="..." linkTarget="_blank" id="_FuWePn5Iiu6_trG1VJC-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-32">
-            <mxGeometry x="48.15" y="8.59" width="187.63" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="_FuWePn5Iiu6_trG1VJC-38" value="" style="endArrow=none;html=1;fontSize=27;fontColor=#0000FF;shadow=0;strokeWidth=43;endFill=0;fillColor=#f8cecc;sketch=1;edgeStyle=orthogonalEdgeStyle;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=#7EA6E0;" edge="1" parent="1" source="_FuWePn5Iiu6_trG1VJC-28" target="_FuWePn5Iiu6_trG1VJC-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3460" y="-1680" as="sourcePoint" />
@@ -848,6 +828,26 @@
         </mxCell>
         <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Model-Storming&quot;&gt;Model Storming&lt;/a&gt;" linkTarget="_blank" id="_FuWePn5Iiu6_trG1VJC-29">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-24">
+            <mxGeometry x="48.15" y="8.59" width="187.63" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_FuWePn5Iiu6_trG1VJC-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3670" y="-2030" width="235.78" height="166.51027272321573" as="geometry" />
+        </mxCell>
+        <mxCell id="_FuWePn5Iiu6_trG1VJC-33" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" connectable="0" parent="_FuWePn5Iiu6_trG1VJC-32">
+          <mxGeometry y="86.51027272321573" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_FuWePn5Iiu6_trG1VJC-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_FuWePn5Iiu6_trG1VJC-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#6666FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_FuWePn5Iiu6_trG1VJC-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;strokeColor=#b85450;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#7EA6E0;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-33">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/Moustov/sw-craftsmanship-map/wiki/Set-Based-Design&quot;&gt;Set-Based Design&lt;br&gt;&lt;/a&gt;" linkTarget="_blank" id="_FuWePn5Iiu6_trG1VJC-37">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-46;fontSize=27;fontColor=#0000FF;fontStyle=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="_FuWePn5Iiu6_trG1VJC-32">
             <mxGeometry x="48.15" y="8.59" width="187.63" height="20" as="geometry" />
           </mxCell>
         </UserObject>
