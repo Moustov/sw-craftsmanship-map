@@ -16,7 +16,7 @@ Voici les références utilisées par l'article *"Où va ma pratique du Sw Craft
 * [14] : https://www.agilitest.com/cards/community-of-practice
 * [15] : https://fr.wikipedia.org/wiki/7_familles
 * [16] : https://fr.wikipedia.org/wiki/RACI
-* [17] : Christophe Moustier – JUN 2019 – « Le test en mode agile » - ISBN 978-2-409-01943-2
+* [17] : Christophe Moustier – JUN 2019 – « [Le test en mode agile](https://www.editions-eni.fr/livre/le-test-en-mode-agile-9782409019432) » - ISBN 978-2-409-01943-2
 * [18] : Kent Beck & Cynthia Andres - FEB 2004 - “Extreme Programming Explained: Embrace Change” - ISBN : 9780321278654
 * [19] : Dan North - « Introducing BDD » - Better Software magazine - Mars 2006 - https://dannorth.net/introducing-bdd/
 * [20] : https://www.scaledagileframework.com/
@@ -25,6 +25,6 @@ Voici les références utilisées par l'article *"Où va ma pratique du Sw Craft
 * [23] : https://wiki.c2.com/?RecursionVsLoop
 * [24] : https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 * [25] : https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger
-* [26] : Christophe Moustier – OCT 2020 – « Conduite de tests agiles pour SAFe et LeSS » - ISBN : 978-2-409-02727-7
+* [26] : Christophe Moustier – OCT 2020 – « [Conduite de tests agiles pour SAFe et LeSS](https://www.editions-eni.fr/livre/conduite-de-tests-agiles-pour-safe-et-less-9782409027277) » - ISBN : 978-2-409-02727-7
 * [27] : Eric Ries - NOV 2011 - “The Lean Startup How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses” - ISBN:9780307887894
 * [28] : http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
