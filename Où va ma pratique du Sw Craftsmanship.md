@@ -28,3 +28,5 @@ Voici les références utilisées par l'article *"Où va ma pratique du Sw Craft
 * [26] : Christophe Moustier – OCT 2020 – « [Conduite de tests agiles pour SAFe et LeSS](https://www.editions-eni.fr/livre/conduite-de-tests-agiles-pour-safe-et-less-9782409027277) » - ISBN : 978-2-409-02727-7
 * [27] : Eric Ries - NOV 2011 - “The Lean Startup How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses” - ISBN:9780307887894
 * [28] : http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+* [29] : Xavier Pigeon - FEV 2019 - "Du Test First Design au Test-Driven Development" - https://medium.com/@xavier.pigeon/du-test-first-design-au-test-driven-development-a07b05fdff6
+* 
